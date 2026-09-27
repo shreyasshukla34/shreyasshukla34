@@ -12,41 +12,6 @@
 
 # 👨‍💻 About Me
 
-```javascript
-const shreyas = {
-    name: "Shreyas Shukla",
-    username: "shreyasshukla34",
-
-    goal: "Become a skilled Full Stack Developer",
-
-    currentlyLearning: [
-        "Java",
-        "Python",
-        "JavaScript",
-        "React.js",
-        "MongoDB",
-        "Backend Development"
-    ],
-
-    alreadyLearned: [
-        "HTML",
-        "CSS",
-        "JavaScript Basics",
-        "Python Basics"
-    ],
-
-    interestedIn: [
-        "Web Development",
-        "Full Stack Development",
-        "Problem Solving",
-        "Building Projects"
-    ],
-
-    mindset: "Learn → Build → Break → Fix → Repeat 🚀"
-};
-```
-
----
 
 ## 🧠 My Learning Journey
 
