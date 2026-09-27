@@ -13,18 +13,7 @@
 # 👨‍💻 About Me
 
 
-## 🧠 My Learning Journey
 
-```text
-HTML          ████████████████████  Completed
-CSS           ████████████████████  Completed
-JavaScript    ████████░░░░░░░░░░░░  Learning
-Python        ████████░░░░░░░░░░░░  Learning
-Java          ██████░░░░░░░░░░░░░░  Learning
-React.js      █████░░░░░░░░░░░░░░░  Learning
-MongoDB       ████░░░░░░░░░░░░░░░░  Learning
-Backend       ███░░░░░░░░░░░░░░░░░  Exploring
-```
 
 > 💡 Currently focused on learning the technologies required to build complete full-stack applications.
 
@@ -49,6 +38,7 @@ Backend       ███░░░░░░░░░░░░░░░░░  Expl
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
+
 
 ### 🔧 Tools
 
