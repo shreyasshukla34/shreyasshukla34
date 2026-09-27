@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello my name is Shreyas Shukla 
+## I am a learner
 
 <!--
 **shreyasshukla34/shreyasshukla34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
