@@ -15,7 +15,7 @@
 
 
 
-> 💡 Currently focused on learning the technologies required to build complete full-stack applications.
+> 💡 Currently focused on learning the technologies required to build complete full-stack web applications.
 
 ---
 
